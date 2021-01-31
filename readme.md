@@ -6,3 +6,6 @@
 Thit is [fake link](#)
 
 ### I learn Github very quikly.
+
+--------------------------------
+License
